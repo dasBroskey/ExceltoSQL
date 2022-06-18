@@ -1,7 +1,6 @@
 from typing import List
 from venv import create
 import xlrd
-import xlwt
 import pandas.io.sql as sql
 from configparser import ConfigParser
 import mysql.connector
