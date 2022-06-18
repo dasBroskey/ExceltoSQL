@@ -6,7 +6,7 @@ not provide an interface to work with the data.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=VJbHzxzYCYo)
 
 # Cloud Database
 
