@@ -104,3 +104,5 @@ while query != "x":
     for tup in tuplist:
         print(f'{tup}\n')
     query = input("What is your query? Type 'x' to exit. ")
+
+db.commit()
